@@ -3,7 +3,7 @@
 This repository contains the necessary files and information to successfully boot macOS on this laptop. 
 
 - Bootloader version: **OpenCore 1.0.0**
-- SMBIOS: [MacBookPro13,1]
+- SMBIOS: [MacBookPro13,1] and [MacBookPro15,2] for Sonoma 14.5
 - Kexts version: everything up-to-date with the latest version
 - macOS version: [Monterey 12.7.5](https://www.apple.com/macos/monterey)
 - Remember to insert your SMBIOS info to config file before booting to your USB
@@ -53,4 +53,4 @@ This repository contains the necessary files and information to successfully boo
 * [Acidanthera](https://github.com/Acidanthera) for OpenCore and Lilu-based kexts 
 * [OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm) for Intel Wifi Card driver
 * [dortania](https://github.com/dortania) team for its detailed guides
-* And thanks to many nice guys on internet. 
+* And thanks to many nice guys on internet that I've forgotten !
